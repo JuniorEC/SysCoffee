@@ -5,3 +5,29 @@ body {
 	padding: 40px 15px;
 	text-align: center;
 }
+
+ .login-page
+{
+    background-image: url('chicago.jpg');
+    background-repeat: no-repeat;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.container{
+background-image: url(C:\xampp\htdocs\SysCoffee\chicago.jpg) !important;
+background-repeat: no-repeat;
+background-size: 100%;
+}
